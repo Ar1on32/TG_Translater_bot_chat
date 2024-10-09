@@ -3,7 +3,7 @@ from telebot import types
 from deep_translator import GoogleTranslator
 
 # Замените 'YOUR_BOT_TOKEN' на токен вашего бота
-bot = telebot.TeleBot('7741954600:AAExFxIGnEzLGd_tk15eLW8tpDzU3GTIOc0')
+bot = telebot.TeleBot('your token')
 
 # Список доступных стран и соответствующих им языков
 countries = {
